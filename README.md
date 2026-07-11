@@ -49,6 +49,9 @@ The dashboard includes the following Key Performance Indicators:
 - Added slicers for dynamic filtering.
 - Validated calculations.
 - Published the final dashboard.
+
+## Dashboard Image 
+![Sales Analysis](
 ## 📌 Business Insights
 
 - Sales increase during festive seasons.
