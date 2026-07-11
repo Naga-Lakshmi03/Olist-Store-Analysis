@@ -49,3 +49,10 @@ The dashboard includes the following Key Performance Indicators:
 - Added slicers for dynamic filtering.
 - Validated calculations.
 - Published the final dashboard.
+## 📌 Business Insights
+
+- Sales increase during festive seasons.
+- A few product categories contribute the majority of revenue.
+- Delayed deliveries often lead to lower customer ratings.
+- Some sellers consistently outperform others.
+- Customer reviews provide valuable insights into service quality.
