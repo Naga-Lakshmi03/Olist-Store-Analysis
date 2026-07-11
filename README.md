@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 The **Olist Store Analysis** project is an interactive Power BI dashboard developed using the Brazilian Olist E-commerce dataset. The dashboard helps analyse sales performance, customer behaviour, product categories, seller performance, and delivery efficiency to support business decision-making.
-## Dataset 
+## 📂 Dataset 
 <a href= "https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/olist_customers_dataset.csv">Dataset</a>
 ## 🎯 Problem Statement
 
@@ -50,7 +50,7 @@ The dashboard includes the following Key Performance Indicators:
 - Added slicers for dynamic filtering.
 - Validated calculations.
 - Published the final dashboard.
-## Data Model
+## 📌Data Model
 ![Data Model](https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/Data%20Model.png)
 
 ## 📊 Report
