@@ -51,7 +51,7 @@ The dashboard includes the following Key Performance Indicators:
 - Published the final dashboard.
 
 ## Dashboard Image 
-![Sales Analysis](
+![Sales Analysis](https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/Sales%20Analysis.png)
 ## 📌 Business Insights
 
 - Sales increase during festive seasons.
