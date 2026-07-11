@@ -51,7 +51,7 @@ The dashboard includes the following Key Performance Indicators:
 - Validated calculations.
 - Published the final dashboard.
 
-## Report
+## 📊 Report
 ![Sales Analysis](https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/Sales%20Analysis.png)
 ## 📌 Business Insights
 
