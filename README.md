@@ -37,27 +37,15 @@ The dashboard includes the following Key Performance Indicators:
 5)	Relationship between shipping days (order_delivered_customer_date - order_purchase_timestamp) Vs review scores.
 ## 📋 Project Workflow
 
-### Step 1
-Imported multiple CSV files into Power BI.
-### Step 2
-Cleaned the data using Power Query.
-### Step 3
-Removed duplicates and handled missing values.
-### Step 4
-Converted columns into appropriate data types.
-### Step 5
-Created relationships between tables.
-### Step 6
-Built a star schema data model.
-### Step 7
-Created calculated columns and DAX measures.
-### Step 8
-Designed KPI cards.
-### Step 9
-Built interactive charts and visuals.
-### Step 10
-Added slicers for dynamic filtering.
-### Step 11
-Validated calculations.
-### Step 12
-Published the final dashboard.
+- Imported multiple CSV files into Power BI.
+- Cleaned the data using Power Query.
+- Removed duplicates and handled missing values.
+- Converted columns into appropriate data types.
+- Created relationships between tables.
+- Built a star schema data model.
+- Created calculated columns and DAX measures.
+- Designed KPI cards.
+- Built interactive charts and visuals.
+- Added slicers for dynamic filtering.
+- Validated calculations.
+- Published the final dashboard.
