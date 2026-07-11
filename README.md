@@ -50,6 +50,8 @@ The dashboard includes the following Key Performance Indicators:
 - Added slicers for dynamic filtering.
 - Validated calculations.
 - Published the final dashboard.
+## Data Model
+![Data Model](https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/Data%20Model.png)
 
 ## 📊 Report
 ![Sales Analysis](https://github.com/Naga-Lakshmi03/Olist-Store-Analysis/blob/main/Sales%20Analysis.png)
